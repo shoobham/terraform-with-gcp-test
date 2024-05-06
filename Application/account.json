@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fatima-stt",
+  "private_key_id": "58d713be04d15799fafcf53d4d2a9880f080c288",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXs8tl/XIck8nH\nSV6pCwnI5bmCCLx2vz0WwbV3ua9Dw5UvLCbJ0TeOXKveuRDd9e41OMrvEcX1q6GH\n6dV6ngfLsZ9syAXWorar+nE/j7v/jqGGs4RsfBOfnFOhB4wMgN+fqwwNJ7gQxiY0\n9UWv4PRt1zvkPTbSVs5AGpcyVOA0yulNGNy2subMlNVbHcjR+84v0QNIabLN9+04\nMH+c3Nu2mazduYipBVWLTz8DKDgGmRbwNymrflvWRbnbMB5RHJhjhUx5PgxZIZ7G\nKp1uBVG1iE8qAt1nKJM9oyix5sobuT7HAHk5I/ejlYPxYBx/h4DKA9ruCcp4105C\nXC9d+qJlAgMBAAECggEAR+16L7HzRIR4JBLwHIN80LHHetWskjsLeno/EfTLGnym\nA/dRrtgRmODsps4lprAgEUELyz2omFqX3KrsytYaCST/W6MdTY7ZwQIeZw4+C6Yz\nhPwh+hP8c+25ozzCVP1XykteC/C8r8tbuzleIM2u51OpdIbnsuRwp2lULgubQLwH\nYPtd22KnFi4peIjmfzkwkUXKwHKjvX7kA8RqkSU8ExzCTJdRwa1psUbi5zliaE+Z\nWyMVUf+NI2KcI87OpwO9h2ih+clJMHj0Ztj7rOfRC6gUWUrOA1QsW7X4BKAzUXt3\nR+hkhatRXA8UsM+e60VQXFumwcFTcOHTwAOuJgznQwKBgQDU8mLaj6hh1lnjRwNI\nCUbLi+ur3oX/laIwdhfZN41JvM7lclmS+Db6bspOdlCjZotYycwA/UsWB793pFJF\nXpjOglt68UFivvyCqAdY4vgr/ZRod2QyxrB6Z8h5bHcaAqRa2l0UYEhReWXzZ62y\nJrlsgOq2tb3BkYAoCAMDx9W7BwKBgQC2X4p07O9FSq5vrF5+0n0hTNtgcwbhlM6m\naftNNHQvPxeFiYGce941OZabDtoc4oFwcCyurwI7UMPtj1pcXq3qfIY00YrjetRA\n+XPZP+QsZFnpHeaS8rzRMruVEmnLLj557KH5Lmy5qpmrs4JQF3JiIDoMoj5sUPoO\nlJ1G3+6gMwKBgCBGYH852M6DW3pcD/5CEa3WFjEld+/F8SAhNfohNlPfvwf9rd/d\nqQ+J7TW5Lv2lFCev5jCcM14ybG2oxSNodAaQsWbP3BYoVkNDTmHFfNHGDFFNDy22\n+ZaD1lm4+9BAaEKw5/ynny5iFPawVx4ySlZMr8Zjg1AsSl1G4ZYYGqfPAoGAA0AQ\np6TRXtrF4RehV4FI2Z8VCdMC/GI6jJy27dlReMYXFTouJSvP+gLcvEa3fGxNAkP9\nh992mrgFxeYYJi1JzDQL8EULxKIbxkyr0+NfnarsL0tpIJVS6CePUEjTudtJIcMl\n39sD9QslUfoRCHxifX01i6QYmLWYv0nGw8yZ5CECgYArNjhhxxEKi6hrb9KFrCZ1\nAhu5cUGmhJk+hTGqUvCJUZ9L1sun8AoazysxGgnUuU8HOqk+o6/sBkAVH0pz91H2\n7kCZwB+AgRh+FfSFH3d9JaY+Heb8v7zQk7xSF87E4SyM6HXlqx1zCyQUmaK/EbNn\nPM1I0GTFv3pFaJgAvR0f1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tahreem@fatima-stt.iam.gserviceaccount.com",
+  "client_id": "106010305519322604350",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tahreem%40fatima-stt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
