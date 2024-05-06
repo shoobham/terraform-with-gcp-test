@@ -1,6 +1,6 @@
 variable "project_id" {
   type    = string
-  default = "fatima-stt"
+  default = "educative-test-tf"
 }
 
 variable "region" {
@@ -10,22 +10,22 @@ variable "region" {
 
 variable "state_bucket" {
   type    = string
-  default = "tahreem-terraform"
+  default = "shubham-tf-bucket"
 }
 
 variable "cluster_name" {
   type    = string
-  default = "tahreem-terraform"
+  default = "shubham-tf-cluster"
 }
 
 variable "service_name" {
   type    = string
-  default = "tahreem-terraform-sample"
+  default = "shubham-tf-service"
 }
 
 variable "k8s_version" {
   type = string
-  default = 1.24
+  default = 1.27
 }
 
 variable "min_node_count" {
